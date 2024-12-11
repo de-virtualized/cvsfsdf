@@ -16,13 +16,13 @@ export const EXPLORER_URL = 'https://explorer.gamba.so'
 export const PLATFORM_SHARABLE_URL = 'play.gamba.so'
 
 // Creator fee (in %)
-export const PLATFORM_CREATOR_FEE = 5 // 1% !!max 5%!!
+export const PLATFORM_CREATOR_FEE = 0.1 // 1% !!max 5%!!
 
 // Jackpot fee (in %)
-export const PLATFORM_JACKPOT_FEE = 5 // 0.1%
+export const PLATFORM_JACKPOT_FEE = 0.1 // 0.1%
 
 // Referral fee (in %)
-export const PLATFORM_REFERRAL_FEE = 5 // 0.25%
+export const PLATFORM_REFERRAL_FEE = 0.1 // 0.25%
 
 /** If the user should be able to revoke an invite after they've accepted an invite */
 export const PLATFORM_ALLOW_REFERRER_REMOVAL = true
